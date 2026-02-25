@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "2048",
+    "url": "https://play2048.co/",
+    "thumbnail": "https://picsum.photos/seed/2048/400/300",
+    "category": "Puzzle",
+    "description": "Join the numbers and get to the 2048 tile!"
+  },
+  {
+    "id": "2",
+    "title": "Doodle Jump",
+    "url": "https://doodlejump.io/",
+    "thumbnail": "https://picsum.photos/seed/doodle/400/300",
+    "category": "Arcade",
+    "description": "Jump as high as you can in this classic arcade game."
+  },
+  {
+    "id": "3",
+    "title": "Tetris",
+    "url": "https://tetris.com/play-tetris",
+    "thumbnail": "https://picsum.photos/seed/tetris/400/300",
+    "category": "Puzzle",
+    "description": "The world-famous puzzle game that everyone knows and loves."
+  },
+  {
+    "id": "4",
+    "title": "Snake",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html",
+    "thumbnail": "https://picsum.photos/seed/snake/400/300",
+    "category": "Classic",
+    "description": "The classic game of snake. Eat the apples and grow longer!"
+  },
+  {
+    "id": "5",
+    "title": "Pac-Man",
+    "url": "https://www.google.com/logos/2010/pacman10-i.html",
+    "thumbnail": "https://picsum.photos/seed/pacman/400/300",
+    "category": "Classic",
+    "description": "Waka waka! Avoid the ghosts and eat all the dots."
+  },
+  {
+    "id": "6",
+    "title": "Flappy Bird",
+    "url": "https://flappybird.io/",
+    "thumbnail": "https://picsum.photos/seed/flappy/400/300",
+    "category": "Arcade",
+    "description": "Flap your wings and fly through the pipes."
+  }
+]
